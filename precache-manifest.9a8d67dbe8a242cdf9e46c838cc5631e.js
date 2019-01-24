@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/svg-gradient-editor/static/js/runtime~main.76c9c9ae.js"
   },
   {
-    "revision": "1dfe9184f26e251f93c9",
-    "url": "/svg-gradient-editor/static/js/main.1dfe9184.chunk.js"
+    "revision": "567e41490f7cfb52fb42",
+    "url": "/svg-gradient-editor/static/js/main.567e4149.chunk.js"
   },
   {
     "revision": "f3605b14c59c938ae2c7",
     "url": "/svg-gradient-editor/static/js/1.f3605b14.chunk.js"
   },
   {
-    "revision": "4394d8becb5993e75bed3adb79979f15",
+    "revision": "426e2884ae038f4f5005a1020557629b",
     "url": "/svg-gradient-editor/index.html"
   }
 ];
